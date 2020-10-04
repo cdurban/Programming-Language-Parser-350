@@ -1,1 +1,2 @@
-# Programming-Language-Parser-350
+# Programming-Language-Parser-CS350
+This program acts as a parser created for a homework assignment for my Organization of Programming Languages class. This will find whether an input is valid using the rules of a pre-determined context-free-grammar.
